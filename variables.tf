@@ -1,10 +1,10 @@
 #####-------------Google-provider-credentials----------
 variable "provider_credential" {
-  default = "C:\\Users\\vrethinavelu\\Downloads\\service_account.json"
+  default = "<your_service_account_json_file>"
 }
 
 variable "project_id_name" {
-  default = "sinuous-anvil-273703"
+  default = "<your_project_id>"
   
 }
 ###################### Variables for VPC #######################
